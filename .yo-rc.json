@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.innvo",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.innvo",
+    "packageFolder": "com/innvo",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2M4YTM2NWFkMTQ4OGMyNjIxM2FmYTFjNThmNjIxN2M0NTNhYThkNmU3MzViMGM4ZjQzYTEzYTZmOGM1NDg2YzJjMzNjNGMxZjM1NmMzZWRlOTE3ZDVmYzczZjg4OThiMGYxNjE4MmMwYWU3ZDAzZjYxYjA1MjA2ZWRkY2FmZDA=",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "blueprints": [],
+    "skipClient": true
+  }
+}
